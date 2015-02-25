@@ -1,0 +1,46 @@
+6th]cp `ls | head -4` public_html/
+
+drwxrwxr-x 3 webonise webonise 4096 Feb 18 19:55 .
+drwxrwxr-x 4 webonise webonise 4096 Feb 18 19:20 ..
+-rw-rw-r-- 1 webonise webonise    0 Feb 18 19:55 aa_aa_aa_aa.log
+-rw-rw-r-- 1 webonise webonise  238 Feb 18 19:55 a.sh
+-rw-rw-r-- 1 webonise webonise    0 Feb 18 19:55 assi
+-rw-rw-r-- 1 webonise webonise 2058 Feb 18 19:55 assi_assi.log
+drwxrwxr-x 8 webonise webonise 4096 Feb 18 17:30 .git
+
+7th] mkdir temp
+cp -r  assignment/public_html/ temp/
+cd temp/
+ls
+cd
+cp -r temp/public_html/ assignment/
+hence it gets copied
+
+6th]copy first 4 files
+
+i=1
+c=1
+for file in *.txt
+do
+if [ $i -gt 4 ] 
+then
+exit
+fi
+echo $file
+cp $file public_html
+i=`expr $i + $c`
+done
+
+or
+
+a=1
+for file in *.txt
+do
+if [ $i -gt 4 ] 
+then
+exit
+fi
+echo $file
+mv $file public_html
+i=`expr $i + $a`
+done

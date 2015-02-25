@@ -1,0 +1,42 @@
+Wed Feb 18 03:58:07 IST 2015
+Wed Feb 18 04:02:35 IST 2015
+Wed Feb 18 04:02:41 IST 2015
+webonise adm cdrom sudo dip plugdev lpadmin sambashare
+Wed Feb 18 04:05:29 IST 2015
+Wed Feb 18 04:05:34 IST 2015
+total 136
+drwxr-xr-x 18 webonise webonise 4096 Feb 18 04:01 ./
+drwxr-xr-x  4 root     root     4096 Feb 15 23:35 ../
+drwxrwxr-x  2 webonise webonise 4096 Feb 18 00:27 ash/
+-rw-rw-r--  1 webonise webonise  200 Feb 18 04:05 assignment.log
+-rw-rw-r--  1 webonise webonise   29 Feb 18 03:58 assignment.log~
+-rw-------  1 webonise webonise  688 Feb 18 00:29 .bash_history
+-rw-r--r--  1 webonise webonise  220 Feb 15 23:35 .bash_logout
+-rw-r--r--  1 webonise webonise 3637 Feb 15 23:35 .bashrc
+drwx------ 18 webonise webonise 4096 Feb 17 23:50 .cache/
+drwx------  3 webonise webonise 4096 Feb 16 00:00 .compiz/
+drwx------ 16 webonise webonise 4096 Feb 17 23:49 .config/
+-rw-rw-r--  1 webonise webonise   88 Feb 18 03:46 demo.txt
+drwxr-xr-x  2 webonise webonise 4096 Feb 18 03:40 Desktop/
+-rw-r--r--  1 webonise webonise   25 Feb 15 23:39 .dmrc
+drwxr-xr-x  2 webonise webonise 4096 Feb 15 23:39 Documents/
+drwxr-xr-x  2 webonise webonise 4096 Feb 15 23:42 Downloads/
+-rw-r--r--  1 webonise webonise 8980 Feb 15 23:35 examples.desktop
+drwx------  3 webonise webonise 4096 Feb 18 02:54 .gconf/
+-rw-rw-r--  1 webonise webonise    0 Feb 18 04:05 groups
+-rw-rw-r--  1 webonise webonise    0 Feb 18 04:05 hostname
+-rw-------  1 webonise webonise 1432 Feb 18 02:54 .ICEauthority
+drwxr-xr-x  3 webonise webonise 4096 Feb 15 23:39 .local/
+-rw-rw-r--  1 webonise webonise    0 Feb 18 04:06 ls
+drwx------  4 webonise webonise 4096 Feb 15 23:40 .mozilla/
+drwxr-xr-x  2 webonise webonise 4096 Feb 15 23:39 Music/
+drwxr-xr-x  2 webonise webonise 4096 Feb 15 23:39 Pictures/
+-rw-r--r--  1 webonise webonise  675 Feb 15 23:35 .profile
+drwxr-xr-x  2 webonise webonise 4096 Feb 15 23:39 Public/
+drwx------  6 webonise webonise 4096 Feb 18 03:49 .Skype/
+drwxr-xr-x  2 webonise webonise 4096 Feb 15 23:39 Templates/
+-rw-rw-r--  1 webonise webonise   13 Feb 18 03:10 Untitled Document 1
+drwxr-xr-x  2 webonise webonise 4096 Feb 15 23:39 Videos/
+-rw-------  1 webonise webonise   61 Feb 18 02:54 .Xauthority
+-rw-------  1 webonise webonise  711 Feb 18 02:54 .xsession-errors
+-rw-------  1 webonise webonise 1156 Feb 18 00:29 .xsession-errors.old
