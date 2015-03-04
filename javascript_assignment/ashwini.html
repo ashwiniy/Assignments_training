@@ -1,0 +1,52 @@
+<html>
+<head>
+<script src = "jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="ashwini_1.js" ></script>
+<script type="text/javascript" src="lib.js" ></script>
+</head>
+
+<body bgcolor="pink">
+<form>
+
+<div align="center"><br/>
+<table cellpadding="10" border="2"  cellspacing="10"  bgcolor="blue">
+<tr>
+	<td bgcolor="yellow">
+		
+	<input type="button" value="Enter the Equation" id="equButton"/>
+	
+	</td bgcolor="yellow">
+</tr>
+</table>
+</div>
+<br/>
+
+<div id="result" align="center"><br/>
+<table  cellpadding="10" border="2"  cellspacing="10"  bgcolor="blue">
+<tr>
+<td bgcolor="yellow" bgcolor="yellow" ><h2>Constant of X:</h2></td bgcolor="yellow">
+<td bgcolor="yellow"><input type="text" value="" id="xconst" size="1" /></td bgcolor="yellow">
+</tr>
+<tr>
+<td bgcolor="yellow"><h2>Constant of Y:</h2></td bgcolor="yellow">
+<td bgcolor="yellow"><input type="text" value="" id="yconst" size="1" /></td bgcolor="yellow">
+</tr>
+<tr>
+<td bgcolor="yellow"><h2>Constant:</h2></td bgcolor="yellow">
+<td bgcolor="yellow"><input type="text" value="" id="const" size="1" /></td bgcolor="yellow">
+</tr>
+<tr>
+<td bgcolor="yellow" colspan="2"><input type="button" value=" Enter the X-Range and Y-Range"id="drawbutton" /></td bgcolor="yellow">
+</tr>
+</table>
+ 
+</div><br/>
+
+
+<div id="graph" align="center"  style="border:solid">
+<canvas id="lineCanvas" width="600" height="200"></canvas>
+</div>
+</form>
+</body>
+</html>
+
